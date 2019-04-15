@@ -1,2 +1,2 @@
-GAMA/OpportunityZone/includes/Tract_2010Census_DP1.dbf filter=lfs diff=lfs merge=lfs -text
-GAMA/OpportunityZone/includes/Tract_2010Census_DP1.shp filter=lfs diff=lfs merge=lfs -text
+GAMA/OpportunityZone/includes/Tract_2010Census_DP1/Tract_2010Census_DP1.dbf filter=lfs diff=lfs merge=lfs -text
+GAMA/OpportunityZone/includes/Tract_2010Census_DP1/Tract_2010Census_DP1.shp filter=lfs diff=lfs merge=lfs -text
